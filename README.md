@@ -47,7 +47,7 @@ This is a simple Todo List web application built using React and Vite. It allows
 ```bash
 📦todo-list-app
  ┣ 📂Server                # Backend code
- ┃ ┣ 📂Models              # Database models (if any)
+ ┃ ┣ 📂Models              # Database models 
  ┃ ┣ 📜index.js            # Server entry point
  ┣ 📂todo-list             # Frontend code
  ┣ 📂public                # Static files (SVGs, images, etc.)
