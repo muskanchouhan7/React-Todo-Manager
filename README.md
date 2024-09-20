@@ -1,4 +1,4 @@
-# Todo List Web Application
+# React Todo Manager 
 
 This is a simple Todo List web application built using React and Vite. It allows users to add, view, and manage tasks. The app is structured using modern front-end technologies and is designed to be fast and user-friendly.
 
